@@ -1,0 +1,52 @@
+.map {
+  z-index: 0;
+  margin-top: auto;
+  height: 500px;
+}
+.mapcontainer {
+  width: 1000px;
+  height: 1000px;
+}
+.plus_floor {
+  position: absolute;
+  bottom: 50px;
+  width: 50%;
+  border: 1px solid red;
+}
+
+.minus_floor {
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
+  border: 1px solid red;
+}
+
+.blueIcon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+}
+.redIcon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-left: 200px;
+  margin-top: -110px;
+}
+.redIconText {
+  vertical-align: middle;
+  margin-left: 200px;
+  margin-top: -50px;
+}
+.greenIcon {
+  width: 24px;
+  height: 24px;
+  margin-left: 100px;
+  margin-top: -120px;
+  vertical-align: middle;
+}
+.greenIconText {
+  vertical-align: middle;
+  margin-left: 90px;
+  margin-top: -60px;
+}

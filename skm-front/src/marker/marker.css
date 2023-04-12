@@ -1,0 +1,8 @@
+.marker {
+    background-image: url('./green.png');
+    background-size: cover;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    cursor: pointer;
+  }
